@@ -22,7 +22,7 @@ Welcome to the repository for my weather application built with Gatsby and React
 To get this project up and running on your local machine, follow these steps:
 
 1. **Clone the repository:**
-- git clone https://github.com/yourusername/weather-app.git
+- git clone https://github.com/dkellam52/weather-forecaster.git
 - cd weather-app
 
 2. **Install dependencies:**
