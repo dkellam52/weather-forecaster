@@ -62,13 +62,9 @@ After launching the app, you can search for any city to view its current weather
 ## 🗺️ Future Enhancements
 - **Interactive Weather Maps**: One of the major enhancements I'm planning is the integration of interactive weather maps. These maps will allow users to visually track weather patterns and conditions across different regions. By implementing interactive maps, users will be able to engage more deeply with the weather data, understanding not just the "what" but also the "where" of weather events.
 
+## 🤝 GitHub
+- https://github.com/dkellam52/weather-forecaster 
 
-## 🤝 Contributing
-Contributions to this project are welcome! Here's how you can contribute:
-- **Fork the repository**: Make a copy of this project to your GitHub account.
-- **Create a branch**: Create a new branch in your forked repository.
-- **Make your changes**: Enhance features, fix bugs, or add new functionalities.
-- **Submit a pull request**: Push your changes to your fork and open a pull request in this repository.
 
 
 
