@@ -52,8 +52,9 @@ To get this project up and running on your local machine, follow these steps:
 - Add your OpenWeatherMap API key to `GATSBY_OPENWEATHERMAP_KEY`
 
 5. **Run the development server:**
-- gatsby develop
-
+    ```
+    gatsby develop
+    ```
 This starts the server on http://localhost:8000.
 
 ## 📊 Usage
